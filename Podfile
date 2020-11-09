@@ -4,7 +4,7 @@ use_frameworks!
 
 
 pod 'SDWebImage', '>= 5.0.0'
-pod 'YYImage'
+pod 'YYImage', :git => 'https://github.com/QiuYeHong90/YYImage.git'
 #pod 'YYImage/WebP'
 
 end
